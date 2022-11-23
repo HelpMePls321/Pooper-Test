@@ -4,21 +4,21 @@ local rs = game:GetService("RunService")
 local uis = game:GetService("UserInputService")
 
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
-local Window = Library.CreateLib("Pooper Phantom Gay Cheat", "DarkTheme")
+local Window = Library.CreateLib("Pooper's Phantom Gay Cheat", "DarkTheme")
 
-local AimbotTab = Window:NewTab("Aimbot")
+local AimbotTab = Window:NewTab("Garner")
 local AimbotSection = AimbotTab:NewSection("Aimbot")
 
-local EspTab = Window:NewTab("ESP")
+local EspTab = Window:NewTab("Is")
 local EspSection = EspTab:NewSection("ESP")
 
-local ExperimentalTab = Window:NewTab("Experimental")
+local ExperimentalTab = Window:NewTab("A")
 local SASection = ExperimentalTab:NewSection("Butthole Destroy Aim")
 
-local BindsTab = Window:NewTab("Binds")
+local BindsTab = Window:NewTab("HOMO")
 local BindsSection = BindsTab:NewSection("Binds")
 
-local ColorTab = Window:NewTab("Color")
+local ColorTab = Window:NewTab("Sapien")
 local ColorSection = ColorTab:NewSection("Color")
 
 
